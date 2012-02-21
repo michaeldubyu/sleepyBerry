@@ -2,7 +2,7 @@ MIDlet-Name: sleepyBerry
 MIDlet-Version: 0.0.1
 MIDlet-Vendor: michael wu
 MIDlet-Jar-URL: sleepyBerry.jar
-MIDlet-Jar-Size: 19321
+MIDlet-Jar-Size: 19175
 MIDlet-Description: Uses sleepyti.me's method of calculating when to sleep.
 MicroEdition-Profile: MIDP-2.0
 MicroEdition-Configuration: CLDC-1.1
@@ -10,8 +10,8 @@ MIDlet-1: SleepyBerry,img/Me-Gusta.png,
 RIM-MIDlet-Flags-1: 0
 Manifest-Version: 1.0
 RIM-COD-URL: sleepyBerry.cod
-RIM-COD-Size: 9896
-RIM-COD-Creation-Time: 1329821904
+RIM-COD-Size: 9836
+RIM-COD-Creation-Time: 1329857137
 RIM-COD-Module-Name: sleepyBerry
 RIM-COD-Module-Dependencies: net_rim_cldc
-RIM-COD-SHA1: 78 dd ab 24 bf 8a e8 af b3 b9 78 df 31 c2 2d aa b1 20 67 1f
+RIM-COD-SHA1: 39 82 44 fc 43 01 b4 ec 99 c0 a2 3e a8 0a 61 51 df 69 97 ce
