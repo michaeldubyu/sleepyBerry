@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="sleepyBerry">
+		<name >
+			SleepyBerry
+		</name>
+		<description >
+			Uses sleepyti.me&apos;s method of calculating when to sleep.
+		</description>
+		<version >
+			0.0.1
+		</version>
+		<vendor >
+			michael wu
+		</vendor>
+		<copyright >
+			Copyright (c) 2012 michael wu
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				sleepyBerry.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

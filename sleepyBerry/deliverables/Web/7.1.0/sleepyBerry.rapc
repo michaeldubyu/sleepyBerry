@@ -1,0 +1,11 @@
+MIDlet-Name: sleepyBerry
+MIDlet-Version: 0.0.1
+MIDlet-Vendor: michael wu
+MIDlet-Description: Uses sleepyti.me's method of calculating when to sleep.
+MIDlet-Jar-URL: sleepyBerry.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: SleepyBerry,img/Me-Gusta.png,
+RIM-MIDlet-Flags-1: 0
+
