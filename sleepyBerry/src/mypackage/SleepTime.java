@@ -32,13 +32,13 @@ int minToSleep;
 		
 		String times = "You should try to be asleep by : ";
 				
-		for (int i=0;i<5;i++)
+		for (int i=0;i<9;i++)
 		{
 			minToSleep = (minToSleep-30) % 60;
 			hourToSleep = (hourToSleep-1) % 24;			
 
 			if (minToSleep < 0) minToSleep = minToSleep + 60;
-			if (hourToSleep < 0) hourToSleep = hourToSleep + 24;
+			if (hourToSleep < 0) hourToSleep = hourToSleep + 23;
 			
 			String properMin;
 			
@@ -50,7 +50,7 @@ int minToSleep;
 			else times += (hourToSleep + ":" + minToSleep + ", ");						
 		}
 		
-		times += "and keep in mind the average human takes 14 minutes to fall asleep!";
+		times += "each time represents a sleep cycle you would get. Keep in mind a good nights sleep is at least 5-6 sleep cycles!";
 		
 		return times;
 	}
